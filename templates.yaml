@@ -1,0 +1,15 @@
+welcome: Hello, how may I help you?
+
+new_launch: It looks like we have not met; Let's begin by adding some rooms. Say add a room to add your first room.
+
+launch_no_rooms: It looks like you don't have any rooms setup. Let's change that. What is the name of the first room?
+
+add_room_prompt: What is the name of the new room?
+
+item_located: The {{ item }} {{ verb }} in the drawer
+
+round: Can you repeat the numbers {{ numbers|join(", ") }} backwards?
+
+win: Good job!
+
+lose: Sorry, that's the wrong answer.
